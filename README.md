@@ -1,7 +1,7 @@
 ### <h1> Hi there 👋
 # Pablo Baz
-- 🔭 I’m currently working on ITS
-- 📫 How to reach me: pablobaz.2042
+- 🔭 Estudiando en ITS
+- 📫 Contacto: pablobaz.2042@gmail.com
 <!--
 **PabloBaz/PabloBaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
